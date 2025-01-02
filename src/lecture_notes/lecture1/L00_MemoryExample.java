@@ -4,6 +4,7 @@ public class L00_MemoryExample {
 
 
         public static void main(String[] args) {
+            System.out.println("selam = ");
         /*
         ** Stack Belleği: **
         - Stack, LIFO (Last In First Out) yani "son giren ilk çıkar" prensibiyle çalışan bir veri yapısıdır.
